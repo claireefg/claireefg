@@ -2,3 +2,4 @@
 
 ## Hi there 👋, my name is Claire Goldberg
 
+![reposize](https://img.shields.io/github/repo-size/claireefg/claireefg)
