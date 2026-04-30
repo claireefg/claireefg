@@ -637,11 +637,18 @@ footer {
   .nav-toggle { display: block; }
 
   /* hero */
-  #hero { padding: 7rem 1.5rem 4rem; }
+  #hero {
+    min-height: auto;
+    padding: 7rem 1.5rem 5rem;
+  }
   .hero-drawing { display: none; }
 
   /* skills */
   .skills-grid { grid-template-columns: repeat(2, 1fr); }
+
+  /* contact */
+  .contact-inner-card { padding: 2rem 1.25rem; }
+  .contact-links { flex-wrap: wrap; gap: 1rem; }
 
   /* map — bottom sheet on mobile */
   .map-container {
@@ -890,5 +897,11 @@ footer {
 
 @media (max-width: 540px) {
   .projects-grid { grid-template-columns: 1fr; }
-  .modal-body { padding: 1.25rem 1.5rem 1.5rem; }
+  .modal-overlay { padding: 0; align-items: flex-end; }
+  .modal-card {
+    max-height: 92vh;
+    border-radius: 12px 12px 0 0;
+  }
+  .modal-img { height: 160px; }
+  .modal-body { padding: 1.25rem 1.25rem 1.5rem; }
 }

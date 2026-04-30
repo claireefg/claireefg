@@ -16,8 +16,6 @@ MS candidate in Geographic Information Science at Clark University (graduating M
 
 **Programming** — Python, R, JavaScript, SQL
 
-**Web Mapping** — Leaflet, Mapbox GL, ArcGIS StoryMaps, ArcGIS Experience Builder
-
 ---
 
 ## Selected Projects
