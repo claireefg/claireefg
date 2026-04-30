@@ -187,8 +187,8 @@ const techJobData = [
     links: []
   },
   {
-    lat: 49.2827,
-    lng: -123.1207,
+    lat: 42.3876,
+    lng: -71.0995,
     title: 'GIS Intern',
     date: 'Mar 2025 – Aug 2025',
     place: 'Stand.earth (Remote, Vancouver, BC)',
@@ -230,17 +230,6 @@ const otherJobData = [
     place: 'Family Promise North Shore Boston (Beverly, MA)',
     description: 'Managed volunteer programming and local partnerships for a housing campaign, leading trauma-informed trainings and using maps to educate on the root causes of homelessness and housing inequity.',
     tags: ['Microsoft Office', 'EveryAction', 'Community Outreach', 'Curriculum Design'],
-    image: '',
-    links: []
-  },
-  {
-    lat: 34.2300,
-    lng: -117.1800,
-    title: 'Educational Director',
-    date: 'Dec 2018 – Aug 2019',
-    place: 'Camp Gilboa (San Bernardino, CA)',
-    description: 'Designed and led summer curriculum for children ages 7–15, guiding staff to plan and implement daily lessons.',
-    tags: ['Curriculum Design', 'Youth Education', 'Staff Management'],
     image: '',
     links: []
   }
@@ -413,11 +402,7 @@ otherJobData.forEach(j => {
 map.addLayer(otherJobCluster);
 
 // fit map to show all markers
-const allPoints = [
-  ...techJobData.map(j => [j.lat, j.lng]),
-  ...otherJobData.map(j => [j.lat, j.lng])
-];
-map.fitBounds(allPoints, { padding: [50, 50] });
+map.setView([42.2, -71.4], 9);
 
 // ============================================
 // PROJECT GRID
