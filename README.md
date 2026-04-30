@@ -1,8 +1,6 @@
 # Claire Goldberg
 
-I'm a cartographer, GIS analyst, data scientist, and educator dedicated to harnessing geospatial tools for environmental justice and civic engagement.
-
-MS candidate in Geographic Information Science at Clark University (graduating May 2026), with a focus on geospatial analysis, remote sensing, and community planning.
+I'm a cartographer, GIS analyst, data scientist, and educator dedicated to harnessing the power of data science for the public good.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-claireg--gis-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claireg-gis)
 [![Portfolio](https://img.shields.io/badge/Portfolio-claireefg.github.io-black)](https://claireefg.github.io/claireefg)
