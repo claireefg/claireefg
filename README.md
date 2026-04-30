@@ -22,7 +22,7 @@ MS candidate in Geographic Information Science at Clark University (graduating M
 
 | Project | Tools |
 |---|---|
-| [The Fight for Green Space in Pawtucket, RI](https://storymaps.arcgis.com/stories/ccb830c0c7974161b4362cc9b3da73ba) | ArcGIS Pro · Python · Remote Sensing |
+| [The Fight for Green Space in Pawtucket, RI](https://storymaps.arcgis.com/stories/ccb830c0c7974161b4362cc9b3da73ba) | ArcGIS · Python · Remote Sensing |
 | [Old Growth Logging in Endangered Caribou Habitat](https://stand.earth/forest-eye/2025/06/23/old-growth-logging-in-endangered-caribou-habitat/) | ArcGIS · PostgreSQL |
 | [Mapping Histories of Slavery & Resistance in NYC](https://www.slaverywalkingtournyc.com/) | JavaScript · Mapbox · QGIS |
 | [Assessing Supply Chain Model Sensitivity to Land-Use Data](https://github.com/claireefg/geog313-final-project) | Python · Google Earth Engine · ML |
