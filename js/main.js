@@ -172,7 +172,7 @@ const techJobData = [
     place: "Clark University (Worcester, MA)",
     description: "Analyzed 500+ surveys, wrote stakeholder reports, and redesigned survey instruments for a project with Prisoners' Legal Services of Massachusetts.",
     tags: ["R", "Microsoft Office", "Data Analysis", "Survey Design"],
-    image: "assets/images/clark-logo.png",
+    image: "assets/images/clark.png",
     links: []
   },
   {
@@ -183,7 +183,7 @@ const techJobData = [
     place: 'Blackstone Watershed Collaborative (Pawtucket, RI)',
     description: 'Used ArcGIS to analyze green space loss and environmental injustice in collaboration with local nonprofits and officials. Expanded a class project into a year-long funded research initiative.',
     tags: ['ArcGIS', 'Data Analysis', 'Community Outreach', 'Environmental Justice'],
-    image: '',
+    image: 'assets/images/blackstone-watershed.jpeg',
     links: []
   },
   {
@@ -191,10 +191,10 @@ const techJobData = [
     lng: -71.0995,
     title: 'GIS Intern',
     date: 'Mar 2025 – Aug 2025',
-    place: 'Stand.earth (Remote, Vancouver, BC)',
+    place: 'Stand.earth (Remote)',
     description: 'Monitored deforestation for the Forest Eye program using PostgreSQL and ArcGIS. Managed geospatial databases, optimized ArcGIS Enterprise, and co-authored a public research report on logging dynamics.',
     tags: ['Remote Sensing', 'PostgreSQL', 'ArcGIS', 'Data Management'],
-    image: 'assets/images/standearth-logo.png',
+    image: 'assets/images/stand-earth.png',
     links: []
   },
   {
@@ -205,7 +205,7 @@ const techJobData = [
     place: 'Massachusetts Office of Technical Assistance & Technology (Boston, MA)',
     description: 'Conducted GIS analysis supporting statewide environmental justice outreach and created data visualizations to improve accessibility of environmental data systems.',
     tags: ['ArcGIS Experience Builder', 'Microsoft Office', 'Data Visualization', 'GIS Analysis'],
-    image: '',
+    image: 'assets/images/EEA.jpg',
     links: []
   }
 ];
@@ -219,7 +219,18 @@ const otherJobData = [
     place: 'Boston Workers Circle (Brookline, MA)',
     description: 'Designed curriculum and facilitated a community-based educational program focused on youth leadership and social change.',
     tags: ['Facilitation', 'Community Outreach', 'Curriculum Design'],
-    image: '',
+    image: 'assets/images/workers-circle.jpeg',
+    links: []
+  },
+  {
+    lat: 42.3370,
+    lng: -71.2092,
+    title: '7th Grade Teacher',
+    date: 'Aug 2022 – May 2023',
+    place: 'Congregation Dorshei Tzedek (Newton, MA)',
+    description: 'Designed and implemented lesson plans catered to the students, creating a joyful learning environment.',
+    tags: ['Leadership Development', 'Community Outreach', 'Curriculum Design'],
+    image: 'assets/images/dorshei.png',
     links: []
   },
   {
@@ -230,7 +241,7 @@ const otherJobData = [
     place: 'Family Promise North Shore Boston (Beverly, MA)',
     description: 'Managed volunteer programming and local partnerships for a housing campaign, leading trauma-informed trainings and using maps to educate on the root causes of homelessness and housing inequity.',
     tags: ['Microsoft Office', 'EveryAction', 'Community Outreach', 'Curriculum Design'],
-    image: '',
+    image: 'assets/images/family-promise.png',
     links: []
   }
 ];
