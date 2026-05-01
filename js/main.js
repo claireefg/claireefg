@@ -118,7 +118,7 @@ const projectData = [
     date: '',
     place: 'Worcester, MA',
     description: "To improve the interoperability and functionality of an existing land use model, I integrated Google's Dynamic World and evaluated the sensitivity of the model to different land use maps and algorithms.",
-    tags: ['Python', 'Google Earth Engine & Cloud', 'Machine Learning'],
+    tags: ['Python', 'Google Earth Engine & Cloud', 'Machine Learning', 'Docker'],
     image: 'assets/images/supply-chain-model.png',
     links: [
       { label: 'GitHub', url: 'https://github.com/claireefg/geog313-final-project' }
